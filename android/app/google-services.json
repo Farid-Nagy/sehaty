@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810710894411",
+    "project_id": "sehaty-68b9f",
+    "storage_bucket": "sehaty-68b9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810710894411:android:03749a3ee7205be57d8ace",
+        "android_client_info": {
+          "package_name": "com.example.sehaty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810710894411-7r7b158ltmalb9f1f46qi43tkn8bebqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_3imnHwBMqoBmsO3ua-LWypd9xSMbEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810710894411-7r7b158ltmalb9f1f46qi43tkn8bebqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
